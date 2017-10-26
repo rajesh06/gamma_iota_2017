@@ -261,7 +261,7 @@ Traditional insurance distribution models involved brokers and agents as interme
 
 --
 
-Innovations in isnurance distributions laregly focus of direct-to-consumer sales on-line via mobile platforms.
+Innovations in insurance distributions largely focus of direct-to-consumer sales on-line via mobile platforms.
 
 ---
 
@@ -276,8 +276,25 @@ From quote to claim, Esurance is working to help you make smarter, more efficien
 
 ---
 
-Claims
+# Claims
+
+<img src = "img/property-casualty-360-logo-600.png" height = '75px'>
+
+<a href="http://www.propertycasualty360.com/2016/08/31/in-claims-all-roads-lead-to-innovation">Property Casualty360<sup>o</sup></a>
+
+<ol>
+  <li><b>Restoration</b> Adjusters are benefiting from technologies that allow them to do their jobs better and more safely. Drones and aerial imaging allow adjusters to assess a dangerous situation from a safe distance, as in the case of a bridge that has collapsed during a CAT event. Assistive technologies like Google Glass give adjusters a novel way to collaborate: less-experienced field adjusters can be sent on-site with the ability to collaborate remotely with a more experienced adjuster who can see what they see and provide guidance. Junior staff can learn on the job and senior staff are spared excessive travel, allowing them to work with many different adjusters in many different locations simultaneously.</li>
+  <li><b>Mitigation</b> IoT technology has especially high potential in this area. Smart IoT devices of all shapes and sizes are enabling early detection of damage or dangerous situations. One recent example is leakSMART, a leak detection device that alerts the policyholder and the insurance company when a leak is detected to stop water damage early. The Nest Protect smoke and carbon monoxide alarm works on the same principle. Similar devices exist for imminently dangerous situations, such as an unattended stove in an empty house.</li>
+  <li><b>Prevention</b> Technology-assisted safety is a real opportunity for claims. Autonomous vehicles have been widely discussed, but that is primarily in the area of passenger vehicles. Autonomous commercial vehicles hold just as much potential to transform the transportation industry — and possibly on a shorter timeline. Driverless trucks are now in on-road testing in Europe.</li>
+
+</ol>
 
 ---
 
-Actuarial
+# Actuarial
+
+<br>
+<br>
+<big>
+  ? ? ? ?
+</big>
